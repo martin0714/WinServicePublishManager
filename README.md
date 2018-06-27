@@ -1,0 +1,2 @@
+# WinServicePublishManager
+简化Windows服务发布操作
